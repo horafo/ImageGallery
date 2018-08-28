@@ -1,0 +1,72 @@
+@import url(http://weloveiconfonts.com/api/?family=fontawesome);
+
+
+/* ---------- FONTAWESOME ---------- */
+
+[class*="fontawesome-"]:before {
+	font-family: 'FontAwesome', sans-serif;
+}
+
+body {
+	background: url(../images/bg.png) repeat;
+}
+
+
+div #enter	{
+	margin-right: 20px;
+}
+
+#favicon, #bs-example-navbar-collapse-1	{
+	margin-top: 15px;
+}
+
+
+
+.photo1, .photo4, .photo7, .photo10, .photo13, .photo16, .photo19, .photo22, .photo25, .photo28   {
+	margin-left: 20px;
+	margin-bottom: 10px;
+	margin-right: 5px;
+	
+}
+
+.photo2, .photo3, .photo5, .photo6, .photo8, .photo9, .photo11, .photo12, .photo14, .photo15, .photo17, .photo18, .photo20, .photo21, .photo23, .photo24, .photo26, .photo27, .photo29, .photo30 {
+	margin-bottom: 10px;
+	margin-right: 5px;
+}
+
+.scrollup{
+width:40px;
+height:40px;
+opacity: 2;
+position:fixed;
+bottom:50px;
+right:100px;
+display:none;
+text-indent:-9999px;
+background: url(../images/icon_top.png) repeat;
+}
+
+form {
+	display: inline-block;
+	margin-left: 40px;
+
+}
+
+
+#container{
+	margin-left: 350px;
+}
+
+ #like, #dislike{
+	margin-left: 15px;
+
+	font-size: x-large;
+	 border-radius: 10px;
+}
+
+div.gallery img {
+	width: 97%;
+	height: auto;
+	margin-left: 20px;
+}
+

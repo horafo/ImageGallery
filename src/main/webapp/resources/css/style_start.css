@@ -1,0 +1,82 @@
+
+body {
+    background: url(../images/bg.png) repeat;
+}
+
+div #enter {
+    margin-right: 20px;
+}
+
+#favicon, #bs-example-navbar-collapse-1 {
+    margin-top: 15px;
+}
+
+.thumb img {
+    margin-left: 55px; /* Отступ слэва */
+    margin-right: 10px; /* Отступ справа */
+
+}
+
+.thumb1 {
+    margin-left: 155px; /* Отступ слэва */
+    margin-bottom: 50px; /* Отступ снизу */
+    float: left;
+}
+
+.thumb2, .thumb3 {
+    margin-left: 240px; /* Отступ слэва */
+    margin-bottom: 50px; /* Отступ снизу */
+    float: left;
+}
+
+.thumb10 img {
+    margin-left: 55px; /* Отступ слэва */
+    margin-right: 10px; /* Отступ справа */
+}
+
+.thumb11 {
+    margin-left: 155px; /* Отступ слэва */
+    margin-bottom: 50px; /* Отступ снизу */
+    float: left;
+}
+
+.thumb21, .thumb31 {
+    margin-left: 280px; /* Отступ слэва */
+    margin-bottom: 50px; /* Отступ снизу */
+    float: left;
+}
+
+.thumb41 {
+    margin-left: 230px; /* Отступ слэва */
+    margin-bottom: 50px; /* Отступ снизу */
+    float: left;
+}
+
+.thumb20 img {
+    margin-left: 55px; /* Отступ слэва */
+    margin-right: 10px; /* Отступ справа */
+}
+
+.thumb12 {
+    margin-left: 130px; /* Отступ слэва */
+    margin-bottom: 50px; /* Отступ снизу */
+    float: left;
+}
+
+.thumb22, .thumb32 {
+    margin-left: 250px; /* Отступ слэва */
+    margin-bottom: 50px; /* Отступ снизу */
+    float: left;
+}
+
+.thumb42, .thumb4 {
+    margin-left: 260px; /* Отступ слэва */
+    margin-bottom: 50px; /* Отступ снизу */
+    float: left;
+}
+
+h3 {
+    color: #000000;
+    font-family: TIMES NEW ROMAN
+}
+

@@ -1,0 +1,1692 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="SpringSec:war exploded" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e7e4071a-f71c-4014-a27d-3b4e55f93eec" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/artifacts/SpringSec_war.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/artifacts/SpringSec_war.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/artifacts/SpringSec_war_exploded.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/artifacts/SpringSec_war_exploded.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__mysql_mysql_connector_java_5_1_34.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringSec.iml" beforeDir="false" afterPath="$PROJECT_DIR$/SpringSec.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ua/kiev/prog/AutoRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ua/kiev/prog/AutoRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ua/kiev/prog/MyController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ua/kiev/prog/MyController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ua/kiev/prog/SecurityConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ua/kiev/prog/SecurityConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ua/kiev/prog/UserRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ua/kiev/prog/UserRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ua/kiev/prog/UserRole.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ua/kiev/prog/UserRole.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/config.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/config.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/animals.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/animals.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/animals1.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/animals1.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/animals10.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/animals10.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/animals11.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/animals11.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/animals12.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/animals12.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/animals13.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/animals13.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/animals14.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/animals14.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/animals15.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/animals15.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/animals2.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/animals2.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/animals3.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/animals3.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/animals4.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/animals4.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/animals5.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/animals5.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/animals6.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/animals6.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/animals7.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/animals7.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/animals8.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/animals8.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/animals9.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/animals9.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/architecture.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/architecture.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/architecture1.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/architecture1.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/architecture10.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/architecture10.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/architecture11.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/architecture11.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/architecture12.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/architecture12.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/architecture13.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/architecture13.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/architecture14.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/architecture14.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/architecture15.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/architecture15.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/architecture16.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/architecture16.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/architecture17.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/architecture17.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/architecture18.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/architecture18.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/architecture19.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/architecture19.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/architecture2.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/architecture2.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/architecture20.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/architecture20.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/architecture21.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/architecture21.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/architecture22.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/architecture22.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/architecture23.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/architecture23.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/architecture3.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/architecture3.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/architecture4.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/architecture4.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/architecture5.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/architecture5.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/architecture6.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/architecture6.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/architecture7.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/architecture7.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/architecture8.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/architecture8.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/architecture9.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/architecture9.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/auto.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/auto.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/auto1.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/auto1.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/auto10.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/auto10.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/auto11.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/auto11.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/auto12.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/auto12.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/auto13.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/auto13.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/auto14.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/auto14.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/auto15.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/auto15.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/auto16.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/auto16.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/auto17.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/auto17.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/auto18.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/auto18.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/auto19.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/auto19.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/auto2.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/auto2.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/auto20.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/auto20.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/auto21.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/auto21.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/auto22.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/auto22.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/auto23.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/auto23.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/auto24.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/auto24.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/auto25.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/auto25.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/auto26.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/auto26.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/auto27.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/auto27.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/auto28.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/auto28.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/auto29.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/auto29.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/auto3.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/auto3.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/auto30.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/auto30.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/auto4.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/auto4.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/auto5.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/auto5.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/auto6.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/auto6.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/auto7.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/auto7.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/auto8.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/auto8.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/auto9.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/auto9.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/brand.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/brand.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/brand1.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/brand1.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/brand10.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/brand10.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/brand11.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/brand11.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/brand12.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/brand12.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/brand13.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/brand13.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/brand14.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/brand14.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/brand15.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/brand15.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/brand2.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/brand2.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/brand3.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/brand3.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/brand4.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/brand4.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/brand5.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/brand5.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/brand6.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/brand6.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/brand7.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/brand7.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/brand8.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/brand8.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/brand9.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/brand9.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/cartoon.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/cartoon.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/cartoon1.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/cartoon1.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/cartoon10.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/cartoon10.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/cartoon11.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/cartoon11.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/cartoon12.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/cartoon12.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/cartoon13.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/cartoon13.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/cartoon14.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/cartoon14.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/cartoon15.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/cartoon15.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/cartoon2.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/cartoon2.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/cartoon3.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/cartoon3.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/cartoon4.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/cartoon4.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/cartoon5.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/cartoon5.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/cartoon6.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/cartoon6.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/cartoon7.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/cartoon7.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/cartoon8.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/cartoon8.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/cartoon9.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/cartoon9.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/film.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/film.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/film1.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/film1.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/film10.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/film10.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/film11.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/film11.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/film12.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/film12.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/film13.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/film13.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/film14.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/film14.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/film15.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/film15.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/film2.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/film2.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/film3.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/film3.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/film4.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/film4.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/film5.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/film5.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/film6.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/film6.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/film7.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/film7.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/film8.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/film8.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/film9.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/film9.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/food.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/food.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/food1.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/food1.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/food10.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/food10.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/food11.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/food11.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/food12.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/food12.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/food13.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/food13.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/food14.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/food14.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/food15.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/food15.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/food2.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/food2.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/food3.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/food3.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/food4.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/food4.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/food5.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/food5.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/food6.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/food6.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/food7.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/food7.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/food8.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/food8.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/food9.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/food9.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/games.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/games.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/games1.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/games1.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/games10.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/games10.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/games11.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/games11.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/games12.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/games12.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/games13.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/games13.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/games14.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/games14.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/games15.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/games15.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/games2.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/games2.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/games3.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/games3.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/games4.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/games4.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/games5.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/games5.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/games6.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/games6.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/games7.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/games7.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/games8.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/games8.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/games9.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/games9.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/nature.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/nature.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/nature1.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/nature1.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/nature10.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/nature10.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/nature11.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/nature11.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/nature12.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/nature12.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/nature13.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/nature13.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/nature14.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/nature14.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/nature15.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/nature15.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/nature2.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/nature2.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/nature3.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/nature3.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/nature4.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/nature4.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/nature5.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/nature5.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/nature6.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/nature6.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/nature7.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/nature7.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/nature8.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/nature8.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/nature9.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/nature9.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/register.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/register.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/space.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/space.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/space1.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/space1.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/space10.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/space10.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/space11.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/space11.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/space12.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/space12.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/space13.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/space13.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/space14.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/space14.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/space15.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/space15.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/space2.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/space2.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/space3.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/space3.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/space4.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/space4.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/space5.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/space5.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/space6.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/space6.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/space7.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/space7.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/space8.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/space8.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/space9.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/space9.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/sport.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/sport.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/sport1.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/sport1.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/sport10.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/sport10.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/sport11.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/sport11.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/sport12.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/sport12.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/sport13.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/sport13.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/sport14.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/sport14.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/sport15.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/sport15.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/sport2.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/sport2.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/sport3.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/sport3.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/sport4.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/sport4.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/sport5.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/sport5.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/sport6.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/sport6.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/sport7.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/sport7.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/sport8.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/sport8.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/sport9.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/sport9.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/start.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/start.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/transport.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/transport.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/transport1.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/transport1.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/transport10.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/transport10.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/transport11.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/transport11.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/transport12.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/transport12.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/transport13.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/transport13.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/transport14.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/transport14.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/transport15.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/transport15.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/transport2.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/transport2.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/transport3.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/transport3.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/transport4.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/transport4.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/transport5.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/transport5.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/transport6.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/transport6.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/transport7.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/transport7.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/transport8.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/transport8.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/transport9.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/transport9.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ImageGallery-1.0-SNAPSHOT.war" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ImageGallery-1.0-SNAPSHOT.war.original" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ImageGallery-1.0-SNAPSHOT/WEB-INF/classes/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ImageGallery-1.0-SNAPSHOT/WEB-INF/classes/config.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ImageGallery-1.0-SNAPSHOT/WEB-INF/classes/ua/kiev/prog/Animals.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ImageGallery-1.0-SNAPSHOT/WEB-INF/classes/ua/kiev/prog/AnimalsController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ImageGallery-1.0-SNAPSHOT/WEB-INF/classes/ua/kiev/prog/AnimalsRepository.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ImageGallery-1.0-SNAPSHOT/WEB-INF/classes/ua/kiev/prog/AnimalsService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ImageGallery-1.0-SNAPSHOT/WEB-INF/classes/ua/kiev/prog/AnimalsServiceImp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ImageGallery-1.0-SNAPSHOT/WEB-INF/classes/ua/kiev/prog/AppConfig.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ImageGallery-1.0-SNAPSHOT/WEB-INF/classes/ua/kiev/prog/Application$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ImageGallery-1.0-SNAPSHOT/WEB-INF/classes/ua/kiev/prog/Application$10.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ImageGallery-1.0-SNAPSHOT/WEB-INF/classes/ua/kiev/prog/Application$11.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ImageGallery-1.0-SNAPSHOT/WEB-INF/classes/ua/kiev/prog/Application$12.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ImageGallery-1.0-SNAPSHOT/WEB-INF/classes/ua/kiev/prog/Application$13.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ImageGallery-1.0-SNAPSHOT/WEB-INF/classes/ua/kiev/prog/Application$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ImageGallery-1.0-SNAPSHOT/WEB-INF/classes/ua/kiev/prog/Application$3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ImageGallery-1.0-SNAPSHOT/WEB-INF/classes/ua/kiev/prog/Application$4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ImageGallery-1.0-SNAPSHOT/WEB-INF/classes/ua/kiev/prog/Application$5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ImageGallery-1.0-SNAPSHOT/WEB-INF/classes/ua/kiev/prog/Application$6.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ImageGallery-1.0-SNAPSHOT/WEB-INF/classes/ua/kiev/prog/Application$7.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ImageGallery-1.0-SNAPSHOT/WEB-INF/classes/ua/kiev/prog/Application$8.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ImageGallery-1.0-SNAPSHOT/WEB-INF/classes/ua/kiev/prog/Application$9.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ImageGallery-1.0-SNAPSHOT/WEB-INF/classes/ua/kiev/prog/Application.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ImageGallery-1.0-SNAPSHOT/WEB-INF/classes/ua/kiev/prog/Architecture.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ImageGallery-1.0-SNAPSHOT/WEB-INF/classes/ua/kiev/prog/ArchitectureController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ImageGallery-1.0-SNAPSHOT/WEB-INF/classes/ua/kiev/prog/ArchitectureRepository.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ImageGallery-1.0-SNAPSHOT/WEB-INF/classes/ua/kiev/prog/ArchitectureService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ImageGallery-1.0-SNAPSHOT/WEB-INF/classes/ua/kiev/prog/ArchitectureServiceImp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ImageGallery-1.0-SNAPSHOT/WEB-INF/classes/ua/kiev/prog/Auto.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ImageGallery-1.0-SNAPSHOT/WEB-INF/classes/ua/kiev/prog/AutoController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ImageGallery-1.0-SNAPSHOT/WEB-INF/classes/ua/kiev/prog/AutoRepository.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ImageGallery-1.0-SNAPSHOT/WEB-INF/classes/ua/kiev/prog/AutoService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ImageGallery-1.0-SNAPSHOT/WEB-INF/classes/ua/kiev/prog/AutoServiceImp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ImageGallery-1.0-SNAPSHOT/WEB-INF/classes/ua/kiev/prog/Brand.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ImageGallery-1.0-SNAPSHOT/WEB-INF/classes/ua/kiev/prog/BrandController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ImageGallery-1.0-SNAPSHOT/WEB-INF/classes/ua/kiev/prog/BrandRepository.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ImageGallery-1.0-SNAPSHOT/WEB-INF/classes/ua/kiev/prog/BrandService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ImageGallery-1.0-SNAPSHOT/WEB-INF/classes/ua/kiev/prog/BrandServiceImp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ImageGallery-1.0-SNAPSHOT/WEB-INF/classes/ua/kiev/prog/Cartoon.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ImageGallery-1.0-SNAPSHOT/WEB-INF/classes/ua/kiev/prog/CartoonController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ImageGallery-1.0-SNAPSHOT/WEB-INF/classes/ua/kiev/prog/CartoonRepository.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ImageGallery-1.0-SNAPSHOT/WEB-INF/classes/ua/kiev/prog/CartoonService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ImageGallery-1.0-SNAPSHOT/WEB-INF/classes/ua/kiev/prog/CartoonServiceImp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ImageGallery-1.0-SNAPSHOT/WEB-INF/classes/ua/kiev/prog/CustomUser.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ImageGallery-1.0-SNAPSHOT/WEB-INF/classes/ua/kiev/prog/Film.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ImageGallery-1.0-SNAPSHOT/WEB-INF/classes/ua/kiev/prog/FilmController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ImageGallery-1.0-SNAPSHOT/WEB-INF/classes/ua/kiev/prog/FilmRepository.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ImageGallery-1.0-SNAPSHOT/WEB-INF/classes/ua/kiev/prog/FilmService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ImageGallery-1.0-SNAPSHOT/WEB-INF/classes/ua/kiev/prog/FilmServiceImp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ImageGallery-1.0-SNAPSHOT/WEB-INF/classes/ua/kiev/prog/Food.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ImageGallery-1.0-SNAPSHOT/WEB-INF/classes/ua/kiev/prog/FoodController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ImageGallery-1.0-SNAPSHOT/WEB-INF/classes/ua/kiev/prog/FoodRepository.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ImageGallery-1.0-SNAPSHOT/WEB-INF/classes/ua/kiev/prog/FoodService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ImageGallery-1.0-SNAPSHOT/WEB-INF/classes/ua/kiev/prog/FoodServiceImp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ImageGallery-1.0-SNAPSHOT/WEB-INF/classes/ua/kiev/prog/Games.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ImageGallery-1.0-SNAPSHOT/WEB-INF/classes/ua/kiev/prog/GamesController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ImageGallery-1.0-SNAPSHOT/WEB-INF/classes/ua/kiev/prog/GamesRepository.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ImageGallery-1.0-SNAPSHOT/WEB-INF/classes/ua/kiev/prog/GamesService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ImageGallery-1.0-SNAPSHOT/WEB-INF/classes/ua/kiev/prog/GamesServiceImp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ImageGallery-1.0-SNAPSHOT/WEB-INF/classes/ua/kiev/prog/LoginController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ImageGallery-1.0-SNAPSHOT/WEB-INF/classes/ua/kiev/prog/MyController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ImageGallery-1.0-SNAPSHOT/WEB-INF/classes/ua/kiev/prog/Nature.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ImageGallery-1.0-SNAPSHOT/WEB-INF/classes/ua/kiev/prog/NatureController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ImageGallery-1.0-SNAPSHOT/WEB-INF/classes/ua/kiev/prog/NatureRepository.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ImageGallery-1.0-SNAPSHOT/WEB-INF/classes/ua/kiev/prog/NatureService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ImageGallery-1.0-SNAPSHOT/WEB-INF/classes/ua/kiev/prog/NatureServiceImp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ImageGallery-1.0-SNAPSHOT/WEB-INF/classes/ua/kiev/prog/SecurityConfig.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ImageGallery-1.0-SNAPSHOT/WEB-INF/classes/ua/kiev/prog/Space.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ImageGallery-1.0-SNAPSHOT/WEB-INF/classes/ua/kiev/prog/SpaceController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ImageGallery-1.0-SNAPSHOT/WEB-INF/classes/ua/kiev/prog/SpaceRepository.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ImageGallery-1.0-SNAPSHOT/WEB-INF/classes/ua/kiev/prog/SpaceService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ImageGallery-1.0-SNAPSHOT/WEB-INF/classes/ua/kiev/prog/SpaceServiceImp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ImageGallery-1.0-SNAPSHOT/WEB-INF/classes/ua/kiev/prog/Sport.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ImageGallery-1.0-SNAPSHOT/WEB-INF/classes/ua/kiev/prog/SportController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ImageGallery-1.0-SNAPSHOT/WEB-INF/classes/ua/kiev/prog/SportRepository.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ImageGallery-1.0-SNAPSHOT/WEB-INF/classes/ua/kiev/prog/SportService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ImageGallery-1.0-SNAPSHOT/WEB-INF/classes/ua/kiev/prog/SportServiceImp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ImageGallery-1.0-SNAPSHOT/WEB-INF/classes/ua/kiev/prog/Transport.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ImageGallery-1.0-SNAPSHOT/WEB-INF/classes/ua/kiev/prog/TransportController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ImageGallery-1.0-SNAPSHOT/WEB-INF/classes/ua/kiev/prog/TransportRepository.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ImageGallery-1.0-SNAPSHOT/WEB-INF/classes/ua/kiev/prog/TransportService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ImageGallery-1.0-SNAPSHOT/WEB-INF/classes/ua/kiev/prog/TransportServiceImp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ImageGallery-1.0-SNAPSHOT/WEB-INF/classes/ua/kiev/prog/UserDetailsServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ImageGallery-1.0-SNAPSHOT/WEB-INF/classes/ua/kiev/prog/UserRepository.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ImageGallery-1.0-SNAPSHOT/WEB-INF/classes/ua/kiev/prog/UserRole.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ImageGallery-1.0-SNAPSHOT/WEB-INF/classes/ua/kiev/prog/UserService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ImageGallery-1.0-SNAPSHOT/WEB-INF/classes/ua/kiev/prog/UserServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ImageGallery-1.0-SNAPSHOT/WEB-INF/lib/antlr-2.7.7.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ImageGallery-1.0-SNAPSHOT/WEB-INF/lib/aopalliance-1.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ImageGallery-1.0-SNAPSHOT/WEB-INF/lib/aspectjweaver-1.8.8.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ImageGallery-1.0-SNAPSHOT/WEB-INF/lib/classmate-1.1.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ImageGallery-1.0-SNAPSHOT/WEB-INF/lib/dom4j-1.6.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ImageGallery-1.0-SNAPSHOT/WEB-INF/lib/ecj-4.4.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ImageGallery-1.0-SNAPSHOT/WEB-INF/lib/hibernate-commons-annotations-4.0.5.Final.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ImageGallery-1.0-SNAPSHOT/WEB-INF/lib/hibernate-core-4.3.11.Final.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ImageGallery-1.0-SNAPSHOT/WEB-INF/lib/hibernate-entitymanager-4.3.11.Final.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ImageGallery-1.0-SNAPSHOT/WEB-INF/lib/hibernate-jpa-2.1-api-1.0.0.Final.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ImageGallery-1.0-SNAPSHOT/WEB-INF/lib/hibernate-validator-5.2.2.Final.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ImageGallery-1.0-SNAPSHOT/WEB-INF/lib/jackson-annotations-2.6.5.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ImageGallery-1.0-SNAPSHOT/WEB-INF/lib/jackson-core-2.6.5.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ImageGallery-1.0-SNAPSHOT/WEB-INF/lib/jackson-databind-2.6.5.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ImageGallery-1.0-SNAPSHOT/WEB-INF/lib/jandex-1.1.0.Final.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ImageGallery-1.0-SNAPSHOT/WEB-INF/lib/javassist-3.18.1-GA.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ImageGallery-1.0-SNAPSHOT/WEB-INF/lib/javax.servlet-api-3.1.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ImageGallery-1.0-SNAPSHOT/WEB-INF/lib/javax.transaction-api-1.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ImageGallery-1.0-SNAPSHOT/WEB-INF/lib/jboss-logging-3.3.0.Final.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ImageGallery-1.0-SNAPSHOT/WEB-INF/lib/jboss-logging-annotations-1.2.0.Beta1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ImageGallery-1.0-SNAPSHOT/WEB-INF/lib/jboss-transaction-api_1.2_spec-1.0.0.Final.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ImageGallery-1.0-SNAPSHOT/WEB-INF/lib/jcl-over-slf4j-1.7.13.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ImageGallery-1.0-SNAPSHOT/WEB-INF/lib/jstl-1.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ImageGallery-1.0-SNAPSHOT/WEB-INF/lib/jul-to-slf4j-1.7.13.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ImageGallery-1.0-SNAPSHOT/WEB-INF/lib/log4j-over-slf4j-1.7.13.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ImageGallery-1.0-SNAPSHOT/WEB-INF/lib/logback-classic-1.1.3.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ImageGallery-1.0-SNAPSHOT/WEB-INF/lib/logback-core-1.1.3.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ImageGallery-1.0-SNAPSHOT/WEB-INF/lib/mysql-connector-java-5.1.34.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ImageGallery-1.0-SNAPSHOT/WEB-INF/lib/slf4j-api-1.7.13.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ImageGallery-1.0-SNAPSHOT/WEB-INF/lib/snakeyaml-1.16.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ImageGallery-1.0-SNAPSHOT/WEB-INF/lib/spring-aop-4.2.4.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ImageGallery-1.0-SNAPSHOT/WEB-INF/lib/spring-aspects-4.2.4.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ImageGallery-1.0-SNAPSHOT/WEB-INF/lib/spring-beans-4.2.4.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ImageGallery-1.0-SNAPSHOT/WEB-INF/lib/spring-boot-1.3.2.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ImageGallery-1.0-SNAPSHOT/WEB-INF/lib/spring-boot-autoconfigure-1.3.2.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ImageGallery-1.0-SNAPSHOT/WEB-INF/lib/spring-boot-starter-1.3.2.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ImageGallery-1.0-SNAPSHOT/WEB-INF/lib/spring-boot-starter-aop-1.3.2.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ImageGallery-1.0-SNAPSHOT/WEB-INF/lib/spring-boot-starter-data-jpa-1.3.2.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ImageGallery-1.0-SNAPSHOT/WEB-INF/lib/spring-boot-starter-jdbc-1.3.2.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ImageGallery-1.0-SNAPSHOT/WEB-INF/lib/spring-boot-starter-logging-1.3.2.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ImageGallery-1.0-SNAPSHOT/WEB-INF/lib/spring-boot-starter-tomcat-1.3.2.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ImageGallery-1.0-SNAPSHOT/WEB-INF/lib/spring-boot-starter-validation-1.3.2.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ImageGallery-1.0-SNAPSHOT/WEB-INF/lib/spring-boot-starter-web-1.3.2.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ImageGallery-1.0-SNAPSHOT/WEB-INF/lib/spring-context-4.2.4.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ImageGallery-1.0-SNAPSHOT/WEB-INF/lib/spring-core-4.2.4.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ImageGallery-1.0-SNAPSHOT/WEB-INF/lib/spring-data-commons-1.11.2.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ImageGallery-1.0-SNAPSHOT/WEB-INF/lib/spring-data-jpa-1.9.2.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ImageGallery-1.0-SNAPSHOT/WEB-INF/lib/spring-expression-4.2.4.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ImageGallery-1.0-SNAPSHOT/WEB-INF/lib/spring-jdbc-4.2.4.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ImageGallery-1.0-SNAPSHOT/WEB-INF/lib/spring-orm-4.2.4.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ImageGallery-1.0-SNAPSHOT/WEB-INF/lib/spring-security-config-4.1.0.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ImageGallery-1.0-SNAPSHOT/WEB-INF/lib/spring-security-core-4.0.3.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ImageGallery-1.0-SNAPSHOT/WEB-INF/lib/spring-security-web-4.1.0.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ImageGallery-1.0-SNAPSHOT/WEB-INF/lib/spring-tx-4.2.4.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ImageGallery-1.0-SNAPSHOT/WEB-INF/lib/spring-web-4.2.4.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ImageGallery-1.0-SNAPSHOT/WEB-INF/lib/spring-webmvc-4.2.4.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ImageGallery-1.0-SNAPSHOT/WEB-INF/lib/tomcat-embed-core-8.0.30.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ImageGallery-1.0-SNAPSHOT/WEB-INF/lib/tomcat-embed-el-8.0.30.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ImageGallery-1.0-SNAPSHOT/WEB-INF/lib/tomcat-embed-jasper-8.0.30.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ImageGallery-1.0-SNAPSHOT/WEB-INF/lib/tomcat-embed-logging-juli-8.0.30.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ImageGallery-1.0-SNAPSHOT/WEB-INF/lib/tomcat-embed-websocket-8.0.30.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ImageGallery-1.0-SNAPSHOT/WEB-INF/lib/tomcat-jdbc-8.0.30.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ImageGallery-1.0-SNAPSHOT/WEB-INF/lib/tomcat-juli-8.0.30.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ImageGallery-1.0-SNAPSHOT/WEB-INF/lib/validation-api-1.1.0.Final.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ImageGallery-1.0-SNAPSHOT/WEB-INF/lib/xml-apis-1.0.b2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ImageGallery-1.0-SNAPSHOT/WEB-INF/pages/admin.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ImageGallery-1.0-SNAPSHOT/WEB-INF/pages/animals.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ImageGallery-1.0-SNAPSHOT/WEB-INF/pages/animals1.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ImageGallery-1.0-SNAPSHOT/WEB-INF/pages/animals10.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ImageGallery-1.0-SNAPSHOT/WEB-INF/pages/animals11.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ImageGallery-1.0-SNAPSHOT/WEB-INF/pages/animals12.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ImageGallery-1.0-SNAPSHOT/WEB-INF/pages/animals13.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ImageGallery-1.0-SNAPSHOT/WEB-INF/pages/animals14.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ImageGallery-1.0-SNAPSHOT/WEB-INF/pages/animals15.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ImageGallery-1.0-SNAPSHOT/WEB-INF/pages/animals2.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ImageGallery-1.0-SNAPSHOT/WEB-INF/pages/animals3.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ImageGallery-1.0-SNAPSHOT/WEB-INF/pages/animals4.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ImageGallery-1.0-SNAPSHOT/WEB-INF/pages/animals5.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ImageGallery-1.0-SNAPSHOT/WEB-INF/pages/animals6.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ImageGallery-1.0-SNAPSHOT/WEB-INF/pages/animals7.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ImageGallery-1.0-SNAPSHOT/WEB-INF/pages/animals8.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ImageGallery-1.0-SNAPSHOT/WEB-INF/pages/animals9.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ImageGallery-1.0-SNAPSHOT/WEB-INF/pages/architecture.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ImageGallery-1.0-SNAPSHOT/WEB-INF/pages/architecture1.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ImageGallery-1.0-SNAPSHOT/WEB-INF/pages/architecture10.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ImageGallery-1.0-SNAPSHOT/WEB-INF/pages/architecture11.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ImageGallery-1.0-SNAPSHOT/WEB-INF/pages/architecture12.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ImageGallery-1.0-SNAPSHOT/WEB-INF/pages/architecture13.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ImageGallery-1.0-SNAPSHOT/WEB-INF/pages/architecture14.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ImageGallery-1.0-SNAPSHOT/WEB-INF/pages/architecture15.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ImageGallery-1.0-SNAPSHOT/WEB-INF/pages/architecture16.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ImageGallery-1.0-SNAPSHOT/WEB-INF/pages/architecture17.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ImageGallery-1.0-SNAPSHOT/WEB-INF/pages/architecture18.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ImageGallery-1.0-SNAPSHOT/WEB-INF/pages/architecture19.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ImageGallery-1.0-SNAPSHOT/WEB-INF/pages/architecture2.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ImageGallery-1.0-SNAPSHOT/WEB-INF/pages/architecture20.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ImageGallery-1.0-SNAPSHOT/WEB-INF/pages/architecture21.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ImageGallery-1.0-SNAPSHOT/WEB-INF/pages/architecture22.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ImageGallery-1.0-SNAPSHOT/WEB-INF/pages/architecture23.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ImageGallery-1.0-SNAPSHOT/WEB-INF/pages/architecture3.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ImageGallery-1.0-SNAPSHOT/WEB-INF/pages/architecture4.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ImageGallery-1.0-SNAPSHOT/WEB-INF/pages/architecture5.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ImageGallery-1.0-SNAPSHOT/WEB-INF/pages/architecture6.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ImageGallery-1.0-SNAPSHOT/WEB-INF/pages/architecture7.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ImageGallery-1.0-SNAPSHOT/WEB-INF/pages/architecture8.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ImageGallery-1.0-SNAPSHOT/WEB-INF/pages/architecture9.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ImageGallery-1.0-SNAPSHOT/WEB-INF/pages/auto.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ImageGallery-1.0-SNAPSHOT/WEB-INF/pages/auto1.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ImageGallery-1.0-SNAPSHOT/WEB-INF/pages/auto10.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ImageGallery-1.0-SNAPSHOT/WEB-INF/pages/auto11.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ImageGallery-1.0-SNAPSHOT/WEB-INF/pages/auto12.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ImageGallery-1.0-SNAPSHOT/WEB-INF/pages/auto13.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ImageGallery-1.0-SNAPSHOT/WEB-INF/pages/auto14.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ImageGallery-1.0-SNAPSHOT/WEB-INF/pages/auto15.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ImageGallery-1.0-SNAPSHOT/WEB-INF/pages/auto16.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ImageGallery-1.0-SNAPSHOT/WEB-INF/pages/auto17.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ImageGallery-1.0-SNAPSHOT/WEB-INF/pages/auto18.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ImageGallery-1.0-SNAPSHOT/WEB-INF/pages/auto19.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ImageGallery-1.0-SNAPSHOT/WEB-INF/pages/auto2.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ImageGallery-1.0-SNAPSHOT/WEB-INF/pages/auto20.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ImageGallery-1.0-SNAPSHOT/WEB-INF/pages/auto21.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ImageGallery-1.0-SNAPSHOT/WEB-INF/pages/auto22.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ImageGallery-1.0-SNAPSHOT/WEB-INF/pages/auto23.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ImageGallery-1.0-SNAPSHOT/WEB-INF/pages/auto24.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ImageGallery-1.0-SNAPSHOT/WEB-INF/pages/auto25.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ImageGallery-1.0-SNAPSHOT/WEB-INF/pages/auto26.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ImageGallery-1.0-SNAPSHOT/WEB-INF/pages/auto27.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ImageGallery-1.0-SNAPSHOT/WEB-INF/pages/auto28.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ImageGallery-1.0-SNAPSHOT/WEB-INF/pages/auto29.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ImageGallery-1.0-SNAPSHOT/WEB-INF/pages/auto3.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ImageGallery-1.0-SNAPSHOT/WEB-INF/pages/auto30.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ImageGallery-1.0-SNAPSHOT/WEB-INF/pages/auto4.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ImageGallery-1.0-SNAPSHOT/WEB-INF/pages/auto5.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ImageGallery-1.0-SNAPSHOT/WEB-INF/pages/auto6.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ImageGallery-1.0-SNAPSHOT/WEB-INF/pages/auto7.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ImageGallery-1.0-SNAPSHOT/WEB-INF/pages/auto8.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ImageGallery-1.0-SNAPSHOT/WEB-INF/pages/auto9.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ImageGallery-1.0-SNAPSHOT/WEB-INF/pages/brand.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ImageGallery-1.0-SNAPSHOT/WEB-INF/pages/brand1.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ImageGallery-1.0-SNAPSHOT/WEB-INF/pages/brand10.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ImageGallery-1.0-SNAPSHOT/WEB-INF/pages/brand11.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ImageGallery-1.0-SNAPSHOT/WEB-INF/pages/brand12.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ImageGallery-1.0-SNAPSHOT/WEB-INF/pages/brand13.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ImageGallery-1.0-SNAPSHOT/WEB-INF/pages/brand14.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ImageGallery-1.0-SNAPSHOT/WEB-INF/pages/brand15.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ImageGallery-1.0-SNAPSHOT/WEB-INF/pages/brand2.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ImageGallery-1.0-SNAPSHOT/WEB-INF/pages/brand3.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ImageGallery-1.0-SNAPSHOT/WEB-INF/pages/brand4.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ImageGallery-1.0-SNAPSHOT/WEB-INF/pages/brand5.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ImageGallery-1.0-SNAPSHOT/WEB-INF/pages/brand6.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ImageGallery-1.0-SNAPSHOT/WEB-INF/pages/brand7.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ImageGallery-1.0-SNAPSHOT/WEB-INF/pages/brand8.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ImageGallery-1.0-SNAPSHOT/WEB-INF/pages/brand9.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ImageGallery-1.0-SNAPSHOT/WEB-INF/pages/cartoon.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ImageGallery-1.0-SNAPSHOT/WEB-INF/pages/cartoon1.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ImageGallery-1.0-SNAPSHOT/WEB-INF/pages/cartoon10.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ImageGallery-1.0-SNAPSHOT/WEB-INF/pages/cartoon11.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ImageGallery-1.0-SNAPSHOT/WEB-INF/pages/cartoon12.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ImageGallery-1.0-SNAPSHOT/WEB-INF/pages/cartoon13.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ImageGallery-1.0-SNAPSHOT/WEB-INF/pages/cartoon14.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ImageGallery-1.0-SNAPSHOT/WEB-INF/pages/cartoon15.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ImageGallery-1.0-SNAPSHOT/WEB-INF/pages/cartoon2.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ImageGallery-1.0-SNAPSHOT/WEB-INF/pages/cartoon3.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ImageGallery-1.0-SNAPSHOT/WEB-INF/pages/cartoon4.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ImageGallery-1.0-SNAPSHOT/WEB-INF/pages/cartoon5.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ImageGallery-1.0-SNAPSHOT/WEB-INF/pages/cartoon6.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ImageGallery-1.0-SNAPSHOT/WEB-INF/pages/cartoon7.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ImageGallery-1.0-SNAPSHOT/WEB-INF/pages/cartoon8.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ImageGallery-1.0-SNAPSHOT/WEB-INF/pages/cartoon9.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ImageGallery-1.0-SNAPSHOT/WEB-INF/pages/film.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ImageGallery-1.0-SNAPSHOT/WEB-INF/pages/film1.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ImageGallery-1.0-SNAPSHOT/WEB-INF/pages/film10.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ImageGallery-1.0-SNAPSHOT/WEB-INF/pages/film11.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ImageGallery-1.0-SNAPSHOT/WEB-INF/pages/film12.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ImageGallery-1.0-SNAPSHOT/WEB-INF/pages/film13.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ImageGallery-1.0-SNAPSHOT/WEB-INF/pages/film14.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ImageGallery-1.0-SNAPSHOT/WEB-INF/pages/film15.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ImageGallery-1.0-SNAPSHOT/WEB-INF/pages/film2.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ImageGallery-1.0-SNAPSHOT/WEB-INF/pages/film3.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ImageGallery-1.0-SNAPSHOT/WEB-INF/pages/film4.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ImageGallery-1.0-SNAPSHOT/WEB-INF/pages/film5.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ImageGallery-1.0-SNAPSHOT/WEB-INF/pages/film6.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ImageGallery-1.0-SNAPSHOT/WEB-INF/pages/film7.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ImageGallery-1.0-SNAPSHOT/WEB-INF/pages/film8.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ImageGallery-1.0-SNAPSHOT/WEB-INF/pages/film9.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ImageGallery-1.0-SNAPSHOT/WEB-INF/pages/food.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ImageGallery-1.0-SNAPSHOT/WEB-INF/pages/food1.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ImageGallery-1.0-SNAPSHOT/WEB-INF/pages/food10.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ImageGallery-1.0-SNAPSHOT/WEB-INF/pages/food11.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ImageGallery-1.0-SNAPSHOT/WEB-INF/pages/food12.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ImageGallery-1.0-SNAPSHOT/WEB-INF/pages/food13.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ImageGallery-1.0-SNAPSHOT/WEB-INF/pages/food14.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ImageGallery-1.0-SNAPSHOT/WEB-INF/pages/food15.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ImageGallery-1.0-SNAPSHOT/WEB-INF/pages/food2.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ImageGallery-1.0-SNAPSHOT/WEB-INF/pages/food3.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ImageGallery-1.0-SNAPSHOT/WEB-INF/pages/food4.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ImageGallery-1.0-SNAPSHOT/WEB-INF/pages/food5.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ImageGallery-1.0-SNAPSHOT/WEB-INF/pages/food6.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ImageGallery-1.0-SNAPSHOT/WEB-INF/pages/food7.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ImageGallery-1.0-SNAPSHOT/WEB-INF/pages/food8.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ImageGallery-1.0-SNAPSHOT/WEB-INF/pages/food9.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ImageGallery-1.0-SNAPSHOT/WEB-INF/pages/games.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ImageGallery-1.0-SNAPSHOT/WEB-INF/pages/games1.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ImageGallery-1.0-SNAPSHOT/WEB-INF/pages/games10.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ImageGallery-1.0-SNAPSHOT/WEB-INF/pages/games11.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ImageGallery-1.0-SNAPSHOT/WEB-INF/pages/games12.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ImageGallery-1.0-SNAPSHOT/WEB-INF/pages/games13.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ImageGallery-1.0-SNAPSHOT/WEB-INF/pages/games14.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ImageGallery-1.0-SNAPSHOT/WEB-INF/pages/games15.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ImageGallery-1.0-SNAPSHOT/WEB-INF/pages/games2.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ImageGallery-1.0-SNAPSHOT/WEB-INF/pages/games3.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ImageGallery-1.0-SNAPSHOT/WEB-INF/pages/games4.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ImageGallery-1.0-SNAPSHOT/WEB-INF/pages/games5.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ImageGallery-1.0-SNAPSHOT/WEB-INF/pages/games6.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ImageGallery-1.0-SNAPSHOT/WEB-INF/pages/games7.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ImageGallery-1.0-SNAPSHOT/WEB-INF/pages/games8.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ImageGallery-1.0-SNAPSHOT/WEB-INF/pages/games9.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ImageGallery-1.0-SNAPSHOT/WEB-INF/pages/index.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ImageGallery-1.0-SNAPSHOT/WEB-INF/pages/login.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ImageGallery-1.0-SNAPSHOT/WEB-INF/pages/nature.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ImageGallery-1.0-SNAPSHOT/WEB-INF/pages/nature1.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ImageGallery-1.0-SNAPSHOT/WEB-INF/pages/nature10.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ImageGallery-1.0-SNAPSHOT/WEB-INF/pages/nature11.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ImageGallery-1.0-SNAPSHOT/WEB-INF/pages/nature12.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ImageGallery-1.0-SNAPSHOT/WEB-INF/pages/nature13.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ImageGallery-1.0-SNAPSHOT/WEB-INF/pages/nature14.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ImageGallery-1.0-SNAPSHOT/WEB-INF/pages/nature15.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ImageGallery-1.0-SNAPSHOT/WEB-INF/pages/nature2.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ImageGallery-1.0-SNAPSHOT/WEB-INF/pages/nature3.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ImageGallery-1.0-SNAPSHOT/WEB-INF/pages/nature4.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ImageGallery-1.0-SNAPSHOT/WEB-INF/pages/nature5.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ImageGallery-1.0-SNAPSHOT/WEB-INF/pages/nature6.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ImageGallery-1.0-SNAPSHOT/WEB-INF/pages/nature7.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ImageGallery-1.0-SNAPSHOT/WEB-INF/pages/nature8.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ImageGallery-1.0-SNAPSHOT/WEB-INF/pages/nature9.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ImageGallery-1.0-SNAPSHOT/WEB-INF/pages/register.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ImageGallery-1.0-SNAPSHOT/WEB-INF/pages/space.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ImageGallery-1.0-SNAPSHOT/WEB-INF/pages/space1.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ImageGallery-1.0-SNAPSHOT/WEB-INF/pages/space10.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ImageGallery-1.0-SNAPSHOT/WEB-INF/pages/space11.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ImageGallery-1.0-SNAPSHOT/WEB-INF/pages/space12.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ImageGallery-1.0-SNAPSHOT/WEB-INF/pages/space13.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ImageGallery-1.0-SNAPSHOT/WEB-INF/pages/space14.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ImageGallery-1.0-SNAPSHOT/WEB-INF/pages/space15.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ImageGallery-1.0-SNAPSHOT/WEB-INF/pages/space2.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ImageGallery-1.0-SNAPSHOT/WEB-INF/pages/space3.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ImageGallery-1.0-SNAPSHOT/WEB-INF/pages/space4.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ImageGallery-1.0-SNAPSHOT/WEB-INF/pages/space5.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ImageGallery-1.0-SNAPSHOT/WEB-INF/pages/space6.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ImageGallery-1.0-SNAPSHOT/WEB-INF/pages/space7.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ImageGallery-1.0-SNAPSHOT/WEB-INF/pages/space8.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ImageGallery-1.0-SNAPSHOT/WEB-INF/pages/space9.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ImageGallery-1.0-SNAPSHOT/WEB-INF/pages/sport.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ImageGallery-1.0-SNAPSHOT/WEB-INF/pages/sport1.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ImageGallery-1.0-SNAPSHOT/WEB-INF/pages/sport10.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ImageGallery-1.0-SNAPSHOT/WEB-INF/pages/sport11.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ImageGallery-1.0-SNAPSHOT/WEB-INF/pages/sport12.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ImageGallery-1.0-SNAPSHOT/WEB-INF/pages/sport13.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ImageGallery-1.0-SNAPSHOT/WEB-INF/pages/sport14.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ImageGallery-1.0-SNAPSHOT/WEB-INF/pages/sport15.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ImageGallery-1.0-SNAPSHOT/WEB-INF/pages/sport2.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ImageGallery-1.0-SNAPSHOT/WEB-INF/pages/sport3.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ImageGallery-1.0-SNAPSHOT/WEB-INF/pages/sport4.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ImageGallery-1.0-SNAPSHOT/WEB-INF/pages/sport5.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ImageGallery-1.0-SNAPSHOT/WEB-INF/pages/sport6.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ImageGallery-1.0-SNAPSHOT/WEB-INF/pages/sport7.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ImageGallery-1.0-SNAPSHOT/WEB-INF/pages/sport8.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ImageGallery-1.0-SNAPSHOT/WEB-INF/pages/sport9.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ImageGallery-1.0-SNAPSHOT/WEB-INF/pages/start.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ImageGallery-1.0-SNAPSHOT/WEB-INF/pages/transport.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ImageGallery-1.0-SNAPSHOT/WEB-INF/pages/transport1.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ImageGallery-1.0-SNAPSHOT/WEB-INF/pages/transport10.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ImageGallery-1.0-SNAPSHOT/WEB-INF/pages/transport11.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ImageGallery-1.0-SNAPSHOT/WEB-INF/pages/transport12.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ImageGallery-1.0-SNAPSHOT/WEB-INF/pages/transport13.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ImageGallery-1.0-SNAPSHOT/WEB-INF/pages/transport14.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ImageGallery-1.0-SNAPSHOT/WEB-INF/pages/transport15.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ImageGallery-1.0-SNAPSHOT/WEB-INF/pages/transport2.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ImageGallery-1.0-SNAPSHOT/WEB-INF/pages/transport3.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ImageGallery-1.0-SNAPSHOT/WEB-INF/pages/transport4.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ImageGallery-1.0-SNAPSHOT/WEB-INF/pages/transport5.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ImageGallery-1.0-SNAPSHOT/WEB-INF/pages/transport6.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ImageGallery-1.0-SNAPSHOT/WEB-INF/pages/transport7.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ImageGallery-1.0-SNAPSHOT/WEB-INF/pages/transport8.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ImageGallery-1.0-SNAPSHOT/WEB-INF/pages/transport9.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ImageGallery-1.0-SNAPSHOT/WEB-INF/pages/unauthorized.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ImageGallery-1.0-SNAPSHOT/WEB-INF/web.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ImageGallery-1.0-SNAPSHOT/resources/css/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ImageGallery-1.0-SNAPSHOT/resources/css/style_index.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ImageGallery-1.0-SNAPSHOT/resources/css/style_page.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ImageGallery-1.0-SNAPSHOT/resources/css/style_register.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ImageGallery-1.0-SNAPSHOT/resources/css/style_start.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ImageGallery-1.0-SNAPSHOT/resources/images/bg.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ImageGallery-1.0-SNAPSHOT/resources/images/icon_top.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/config.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/config.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ua/kiev/prog/AutoRepository.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ua/kiev/prog/AutoRepository.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ua/kiev/prog/MyController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ua/kiev/prog/MyController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ua/kiev/prog/SecurityConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ua/kiev/prog/SecurityConfig.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ua/kiev/prog/UserRole.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ua/kiev/prog/UserRole.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-archiver/pom.properties" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="application.properties" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/application.properties">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="44" selection-start-column="44" selection-end-column="44" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="config.properties" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/config.properties">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="52" selection-start-column="52" selection-end-column="52" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Jsp File" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/space9.jsp" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/space10.jsp" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/space11.jsp" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/space12.jsp" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/space13.jsp" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/space14.jsp" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/space15.jsp" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/sport.jsp" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/sport1.jsp" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/sport2.jsp" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/sport3.jsp" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/sport4.jsp" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/sport5.jsp" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/sport6.jsp" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/sport7.jsp" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/sport8.jsp" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/sport9.jsp" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/sport10.jsp" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/sport11.jsp" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/sport12.jsp" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/sport13.jsp" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/sport14.jsp" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/sport15.jsp" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/transport.jsp" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/transport1.jsp" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/transport2.jsp" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/transport3.jsp" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/transport4.jsp" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/transport5.jsp" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/transport6.jsp" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/transport7.jsp" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/transport8.jsp" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/transport9.jsp" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/transport10.jsp" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/transport11.jsp" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/transport12.jsp" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/transport13.jsp" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/transport14.jsp" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/transport15.jsp" />
+        <option value="$PROJECT_DIR$/src/main/java/ua/kiev/prog/AutoRepository.java" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/auto1.jsp" />
+        <option value="$PROJECT_DIR$/src/main/resources/config.properties" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/start.jsp" />
+        <option value="$PROJECT_DIR$/src/main/java/ua/kiev/prog/Application1.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ua/kiev/prog/AppConfig1.java" />
+        <option value="$PROJECT_DIR$/src/main/webapp/index.jsp" />
+        <option value="$PROJECT_DIR$/src/main/java/ua/kiev/prog/AutoController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ua/kiev/prog/SecurityConfig.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/Procfile" />
+        <option value="$PROJECT_DIR$/src/main/resources/application.properties" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="10" />
+    <option name="y" value="20" />
+    <option name="width" value="1346" />
+    <option name="height" value="688" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+          <State>
+            <id>SetupSpring CoreSpring</id>
+          </State>
+          <State>
+            <id>Spring</id>
+          </State>
+          <State>
+            <id>Spring CoreSpring</id>
+          </State>
+          <State>
+            <id>XMLSpring CoreSpring</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>SpringModelInspection</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="AndroidView" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="springsec" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaDiplom" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springsec" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaDiplom" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springsec" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaDiplom" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springsec" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaDiplom" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springsec" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaDiplom" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="prog" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springsec" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaDiplom" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springsec" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaDiplom" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springsec" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaDiplom" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+              <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springsec" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaDiplom" type="462c0819:PsiDirectoryNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelOrder2" value="2" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RequestMappingsPanelWidth2" value="75" />
+    <property name="SearchEverywhereHistoryKey" value="favicon&#9;null&#9;null&#10;favi&#9;FILE&#9;jar://C:/Users/Администратор/.m2/repository/org/springframework/boot/spring-boot/1.3.2.RELEASE/spring-boot-1.3.2.RELEASE.jar!/favicon.ico" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\JavaDiplom\src\main\webapp\resources\images" />
+      <recent name="D:\JavaDiplom\src\main\webapp\WEB-INF\pages\like" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="ua.kiev.prog" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\JavaDiplom\src\main\webapp" />
+      <recent name="D:\JavaDiplom\src\main\webapp\resources\css" />
+      <recent name="D:\JavaDiplom\src\main\webapp\WEB-INF\pages" />
+      <recent name="D:\JavaDiplom\src\main\webapp\resources\images" />
+      <recent name="D:\JavaDiplom\src\main\webapp\resources" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration name="Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="SpringSec" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="ua.kiev.prog.Application" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <properties />
+      <listeners />
+    </configuration>
+    <configuration default="true" type="TomeeConfiguration" factoryName="Local" APPLICATION_SERVER_NAME="TomEE 8.5.20" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment />
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="_springsec" />
+      </server-settings>
+      <predefined_log_file id="Tomcat" enabled="true" />
+      <predefined_log_file id="Tomcat Catalina" enabled="true" />
+      <predefined_log_file id="Tomcat Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Host Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Localhost Access" enabled="false" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="64424" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+    </configuration>
+    <configuration default="true" type="TomeeConfiguration" factoryName="Remote" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="LOCAL" value="false" />
+      <deployment />
+      <server-settings>
+        <data>
+          <option name="targets">
+            <list>
+              <WatchedTargetModelImpl>
+                <option name="name" value="CONTEXT_XML" />
+                <name>CONTEXT_XML</name>
+              </WatchedTargetModelImpl>
+              <StagingTargetModelImpl>
+                <option name="name" value="STAGING" />
+                <name>STAGING</name>
+              </StagingTargetModelImpl>
+            </list>
+          </option>
+          <option name="transportHostId" value="" />
+          <host-id />
+        </data>
+      </server-settings>
+      <predefined_log_file id="Tomcat" enabled="true" />
+      <predefined_log_file id="TOMCAT_LOCALHOST_LOG_ID" enabled="true" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="56922" />
+        <option name="LOCAL" value="false" />
+      </RunnerSettings>
+    </configuration>
+    <configuration default="true" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" ALTERNATIVE_JRE_ENABLED="false">
+      <deployment />
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="_springsec" />
+      </server-settings>
+      <predefined_log_file id="Tomcat" enabled="true" />
+      <predefined_log_file id="Tomcat Catalina" enabled="true" />
+      <predefined_log_file id="Tomcat Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Host Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Localhost Access" enabled="false" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="56863" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+    </configuration>
+    <configuration default="true" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Remote" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="LOCAL" value="false" />
+      <deployment />
+      <server-settings>
+        <data>
+          <option name="targets">
+            <list>
+              <WatchedTargetModelImpl>
+                <option name="name" value="CONTEXT_XML" />
+                <name>CONTEXT_XML</name>
+              </WatchedTargetModelImpl>
+              <StagingTargetModelImpl>
+                <option name="name" value="STAGING" />
+                <name>STAGING</name>
+              </StagingTargetModelImpl>
+            </list>
+          </option>
+          <option name="transportHostId" value="" />
+          <host-id />
+        </data>
+      </server-settings>
+      <predefined_log_file id="Tomcat" enabled="true" />
+      <predefined_log_file id="TOMCAT_LOCALHOST_LOG_ID" enabled="true" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="56886" />
+        <option name="LOCAL" value="false" />
+      </RunnerSettings>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e7e4071a-f71c-4014-a27d-3b4e55f93eec" name="Default" comment="" />
+      <created>1508859083697</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1508859083697</updated>
+      <workItem from="1508859091020" duration="2749000" />
+      <workItem from="1510763627391" duration="83000" />
+      <workItem from="1510763819920" duration="90000" />
+      <workItem from="1510764991201" duration="5917000" />
+      <workItem from="1510772536808" duration="7650000" />
+      <workItem from="1510843520394" duration="971000" />
+      <workItem from="1510848267232" duration="8197000" />
+      <workItem from="1511039421108" duration="327000" />
+      <workItem from="1511288628245" duration="1174000" />
+      <workItem from="1511779640103" duration="596000" />
+      <workItem from="1515146894410" duration="128000" />
+      <workItem from="1516715687470" duration="2180000" />
+      <workItem from="1516719936421" duration="145000" />
+      <workItem from="1516723141348" duration="247000" />
+      <workItem from="1516724210751" duration="73000" />
+      <workItem from="1516732021211" duration="2171000" />
+      <workItem from="1516737222250" duration="214000" />
+      <workItem from="1516738317568" duration="132000" />
+      <workItem from="1516795749871" duration="17000" />
+      <workItem from="1516796426384" duration="396000" />
+      <workItem from="1516804867530" duration="2898000" />
+      <workItem from="1516903062342" duration="3331000" />
+      <workItem from="1516965100493" duration="4310000" />
+      <workItem from="1516986912308" duration="2061000" />
+      <workItem from="1517232129806" duration="3925000" />
+      <workItem from="1517416524999" duration="7530000" />
+      <workItem from="1517486876856" duration="1342000" />
+      <workItem from="1517502368556" duration="1757000" />
+      <workItem from="1518357102870" duration="218000" />
+      <workItem from="1518357389038" duration="1877000" />
+      <workItem from="1521131612101" duration="6798000" />
+      <workItem from="1521224815218" duration="373000" />
+      <workItem from="1521374245470" duration="1888000" />
+      <workItem from="1521386034901" duration="694000" />
+      <workItem from="1521390259384" duration="269000" />
+      <workItem from="1521653231374" duration="6017000" />
+      <workItem from="1523372280992" duration="12706000" />
+      <workItem from="1523479021852" duration="1638000" />
+      <workItem from="1523554363095" duration="2364000" />
+      <workItem from="1525511901293" duration="59000" />
+      <workItem from="1525512040524" duration="258000" />
+      <workItem from="1525513313419" duration="130000" />
+      <workItem from="1511434005189" duration="10000" />
+      <workItem from="1527760128628" duration="40000" />
+      <workItem from="1525514723483" duration="9897000" />
+      <workItem from="1525633515111" duration="4591000" />
+      <workItem from="1525725063910" duration="5143000" />
+      <workItem from="1526046066969" duration="7383000" />
+      <workItem from="1526228873057" duration="5902000" />
+      <workItem from="1526236320660" duration="2251000" />
+      <workItem from="1528550670295" duration="502000" />
+      <workItem from="1528553402529" duration="10909000" />
+      <workItem from="1530880399014" duration="1655000" />
+      <workItem from="1530883656741" duration="3717000" />
+      <workItem from="1530888169785" duration="10218000" />
+      <workItem from="1530952032633" duration="38575000" />
+      <workItem from="1531378116267" duration="11459000" />
+      <workItem from="1531404688718" duration="3475000" />
+      <workItem from="1531417885210" duration="223000" />
+      <workItem from="1531418209540" duration="15023000" />
+      <workItem from="1532104118382" duration="26836000" />
+      <workItem from="1532602722386" duration="680000" />
+      <workItem from="1532632793782" duration="705000" />
+      <workItem from="1532680459247" duration="36000" />
+      <workItem from="1532685020256" duration="5907000" />
+      <workItem from="1532706872123" duration="508000" />
+      <workItem from="1532707490933" duration="2098000" />
+      <workItem from="1532711497444" duration="1759000" />
+      <workItem from="1532880170697" duration="6185000" />
+      <workItem from="1532966834511" duration="7000000" />
+      <workItem from="1533025890373" duration="696000" />
+      <workItem from="1533027246875" duration="10216000" />
+      <workItem from="1533118028889" duration="1972000" />
+      <workItem from="1534668911824" duration="2871000" />
+      <workItem from="1535366308771" duration="324000" />
+      <workItem from="1535473338143" duration="5275000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="299941000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.11420205" side_tool="true" weight="0.32861635" />
+      <window_info anchor="right" id="Maven Projects" order="9" />
+      <window_info anchor="bottom" id="Database Changes" order="0" show_stripe_button="false" />
+      <window_info id="Capture Tool" order="2" />
+      <window_info id="Designer" order="7" />
+      <window_info anchor="right" id="Database" order="4" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info id="UI Designer" order="3" />
+      <window_info anchor="bottom" id="Debug" order="4" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="7" />
+      <window_info anchor="bottom" id="Messages" order="14" weight="0.45597485" />
+      <window_info anchor="right" id="Palette&#9;" order="5" />
+      <window_info id="Image Layers" order="4" />
+      <window_info anchor="bottom" id="Java Enterprise" order="9" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="11" />
+      <window_info anchor="bottom" id="Run" order="3" sideWeight="0.885798" weight="0.9355346" />
+      <window_info anchor="bottom" id="Spring" order="12" />
+      <window_info anchor="bottom" id="Terminal" order="13" weight="0.32861635" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20058565" />
+      <window_info anchor="right" id="Bean Validation" order="7" />
+      <window_info id="Web" order="5" side_tool="true" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="bottom" id="Find" order="2" />
+      <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="1" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Application Servers" order="10" weight="0.32861635" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="20" />
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/sport14.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="42" column="106" selection-start-line="42" selection-start-column="106" selection-end-line="42" selection-end-column="106" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/sport.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="37" column="106" selection-start-line="37" selection-start-column="106" selection-end-line="37" selection-end-column="106" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/transport.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="37" column="106" selection-start-line="37" selection-start-column="106" selection-end-line="37" selection-end-column="106" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/transport1.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="42" column="106" selection-start-line="42" selection-start-column="106" selection-end-line="42" selection-end-column="106" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/transport2.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="42" column="30" selection-start-line="42" selection-start-column="30" selection-end-line="42" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/transport3.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="42" column="30" selection-start-line="42" selection-start-column="30" selection-end-line="42" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/transport4.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="42" column="30" selection-start-line="42" selection-start-column="30" selection-end-line="42" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/transport5.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="42" column="30" selection-start-line="42" selection-start-column="30" selection-end-line="42" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/transport6.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="42" column="30" selection-start-line="42" selection-start-column="30" selection-end-line="42" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/transport7.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="42" column="30" selection-start-line="42" selection-start-column="30" selection-end-line="42" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/transport8.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="42" column="106" selection-start-line="42" selection-start-column="106" selection-end-line="42" selection-end-column="106" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/transport9.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="42" column="106" selection-start-line="42" selection-start-column="106" selection-end-line="42" selection-end-column="106" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/transport10.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="42" column="106" selection-start-line="42" selection-start-column="106" selection-end-line="42" selection-end-column="106" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/transport11.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="42" column="106" selection-start-line="42" selection-start-column="106" selection-end-line="42" selection-end-column="106" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/transport12.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="42" column="111" selection-start-line="42" selection-start-column="111" selection-end-line="42" selection-end-column="111" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/transport13.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="42" column="30" selection-start-line="42" selection-start-column="30" selection-end-line="42" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/transport14.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="42" column="30" selection-start-line="42" selection-start-column="30" selection-end-line="42" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/transport15.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="42" column="30" selection-start-line="42" selection-start-column="30" selection-end-line="42" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ua/kiev/prog/UserRepository.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="6" column="17" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ua/kiev/prog/AutoServiceImp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ua/kiev/prog/AutoService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ua/kiev/prog/AutoRepository.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="7" column="38" lean-forward="true" selection-start-line="7" selection-start-column="38" selection-end-line="7" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ua/kiev/prog/Auto.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ua/kiev/prog/AnimalsController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ua/kiev/prog/AnimalsRepository.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="6" column="17" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ua/kiev/prog/AnimalsService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ua/kiev/prog/AnimalsServiceImp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/sport15.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="42" column="106" selection-start-line="42" selection-start-column="106" selection-end-line="42" selection-end-column="106" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/start.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="629">
+          <caret line="37" column="52" selection-start-line="37" selection-start-column="52" selection-end-line="37" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/animals.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="31" column="123" selection-start-line="31" selection-start-column="52" selection-end-line="31" selection-end-column="123" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ua/kiev/prog/Application1.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/ua/kiev/prog/AppConfig1.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/ua/kiev/prog/UserDetailsServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="25" column="50" selection-start-line="25" selection-start-column="50" selection-end-line="25" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/index.jsp" />
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ua/kiev/prog/AppConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="143">
+          <caret line="67" column="46" selection-start-line="67" selection-start-column="46" selection-end-line="67" selection-end-column="46" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ua/kiev/prog/Application.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ua/kiev/prog/Architecture.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ua/kiev/prog/Animals.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ua/kiev/prog/LoginController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/auto1.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="35">
+          <caret line="70" column="54" selection-start-line="70" selection-start-column="54" selection-end-line="70" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ua/kiev/prog/SecurityConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="37" column="31" selection-start-line="37" selection-start-column="31" selection-end-line="37" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ua/kiev/prog/AutoController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="34" column="23" selection-start-line="34" selection-start-column="23" selection-end-line="34" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/admin.jsp">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/login.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1044" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/index.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-816" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ua/kiev/prog/MyController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-622">
+          <caret line="18" column="22" selection-start-line="18" selection-start-column="22" selection-end-line="18" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="483">
+          <caret line="112" lean-forward="true" selection-start-line="112" selection-end-line="112" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Procfile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/config.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="52" selection-start-column="52" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="44" selection-start-column="44" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>SpringSec:war exploded</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Spring (SpringSec)|Spring</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>SpringSec</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: antlr:antlr:2.7.7</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

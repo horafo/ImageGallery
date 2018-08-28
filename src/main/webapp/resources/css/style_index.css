@@ -1,0 +1,33 @@
+/* ---------- GENERAL ---------- */
+
+#login {
+    margin-left: 166px;
+    font-size: 20px;
+}
+
+#email {
+    margin-left: 132px
+}
+
+#phone {
+    margin-left: 137px
+}
+
+#btn-update {
+    margin-left: 210px
+}
+#btn-danger {
+    float: right;
+}
+div #enter	{
+    margin-right: 20px;
+}
+
+
+body {
+    background: url(../images/bg.png) repeat;
+}
+
+#favicon, #bs-example-navbar-collapse-1 {
+    margin-top: 15px;
+}
